@@ -2,7 +2,7 @@
   "basics": {
     "name": "Dylan Ubongen",
     "label": "Student",
-    "picture": "https://techfolios.github.io/images/molly.png",
+    "picture": "https://techfolios.github.io/images",
     "email": "dubongen@hawaii.edu",
     "phone": "",
     "website": "https://dubongen.github.io",
@@ -45,12 +45,12 @@
       ]
     },
     {
-      "name": "",
+      "name": "Dancing",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Soccer",
       "keywords": [
       ]
     }
