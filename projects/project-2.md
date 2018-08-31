@@ -14,6 +14,9 @@ summary: I created a project in C and converted it into C++.
 
 <img class="ui medium right floated rounded image" src="../images/Softwarepic2.png">
 
+
+
+
 In Professor Ravi's class he taught us the use of C and C++ and he gave us homeworks and projects so we can become proficient in the language and a better commputer programmer.
 
 This project had its various difficulties with getting your code to work. I believe with the first project which was designing an address book so that you are able to add someone's address and delete it. The hardest part for me with that specific project was releasing the allocated memory from the heap and the importance of releasing the heap is so that you won't have a memory leakwhich could lead your computer to run slow. 
