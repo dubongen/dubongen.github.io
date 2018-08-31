@@ -12,7 +12,7 @@ labels:
 summary: In ICS 111 we've created a racing game that let's you race against the CPU.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/Screen Shot 2018-08-30 at 4.35.07 PM.png">
 </div>
 
