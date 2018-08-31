@@ -39,19 +39,25 @@
   },
   "interests": [
     {
-      "name": "Video Games",
+      "name": "Cyber Security",
       "keywords": [
         
       ]
     },
     {
-      "name": "Dancing",
+      "name": "Computer Programing",
       "keywords": [
       ]
     },
     {
-      "name": "Soccer",
+      "name": "Game Development",
       "keywords": [
+      ]
+    },
+    {
+      "name": "Dancing",
+      "keywords": [
+        
       ]
     }
   ],
