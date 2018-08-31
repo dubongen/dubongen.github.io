@@ -1,1 +1,15 @@
+---
+layout: essay
+type: essay
+title: Learning Javascript
+# All dates must be YYYY-MM-DD format!
+date: 2018-08-29
+labels:
+  - Javascript
+  - Coding
+---
+
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/Image-1 (1).png">
+</div>
 
