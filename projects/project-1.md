@@ -13,10 +13,7 @@ summary: In ICS 111 we've created a racing game that let's you race against the 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/IMG_0896.JPG">
 </div>
 
 This project was given to me and my ICS 111 class by Jason Leigh. It was a way to introduce the class to game development and inspire some of new programers to persue coding and encourage them to keep trying and perservere. The requirements of the program is to have three racers and one of those racers you are controlling by pressing the keys 'W' and 'S'in a sequential order. While you are controlling your character's movement, the CPU is generating a random value to either increase their movement or to decrease it. This forces you to continuously pressing 'W' and 'S' to the point where you just might end up breaking your keyboard just so that you can win.
@@ -25,8 +22,23 @@ With this project I've ran into some difficulties with meeting the requirements,
 
 With this project, it gave me an idea of how it's like to develop a game even if it's something small like this project.
 
+Sample of Code
 
-For source code,click on this link(http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+    while (isracing){
+
+      Zoom.translateBy (rand.nextInt(4),0); //random integer multiplied by x value of racer's coordinates			
+			ReverseFlash.translateBy (rand.nextInt(4),0); //random integer multiplied by x value of racer's coordinates
+			
+			EZ.refreshScreen(); //When screen refresh reset random integers
+	
+      Flash.translateTo(flashX,140);//translate the coordinates
+			
+			if (EZInteraction.wasKeyPressed(currkey)==true) { //set key interaction
+				tem=lastkey;//temporary is the last key pressed
+				lastkey=currkey;//the last key = the current key
+				currkey=tem;//temporary is the current key pressed
+				Flash.translateBy (5+rand.nextInt(8),0);	// when keys is pressed add 5 and a random int to flashX
+			}	
 
 
 
