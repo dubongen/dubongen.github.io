@@ -13,7 +13,7 @@ summary: In ICS 111 we've created a racing game that let's you race against the 
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/IMG_0896.JPG">
+  <img class="ui image" src="../images/Screen Shot 2018-08-30 at 4.35.07 PM.png">
 </div>
 
 This project was given to me and my ICS 111 class by Jason Leigh. It was a way to introduce the class to game development and inspire some of new programers to persue coding and encourage them to keep trying and perservere. The requirements of the program is to have three racers and one of those racers you are controlling by pressing the keys 'W' and 'S'in a sequential order. While you are controlling your character's movement, the CPU is generating a random value to either increase their movement or to decrease it. This forces you to continuously pressing 'W' and 'S' to the point where you just might end up breaking your keyboard just so that you can win.
