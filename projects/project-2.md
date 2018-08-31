@@ -12,9 +12,9 @@ labels:
 summary: I created a project in C and converted it into C++.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/Softwarepic2.png">
-
-
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/Softwarepic2.png">
+</div>
 
 
 In Professor Ravi's class he taught us the use of C and C++ and he gave us homeworks and projects so we can become proficient in the language and a better commputer programmer.
