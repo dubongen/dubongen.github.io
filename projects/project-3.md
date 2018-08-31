@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/IMG_2196.JPG
 title: Choreography
 permalink: projects/choreography
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: A personal project I had the opportunity in doing.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Image-1.png">
 
 My personal project that I felt needed to be in here is one of my choreographys that performed and filmed. Now this is not  just any typical dance choreography, it's the first one that I was able to have the courage to preform and film it.
 
