@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Screen Shot 2018-08-30 at 4.35.07 PM.png
+image: images/olympic1.jpg
 title: Olympic Race Game
 permalink: projects/olympicrace
 # All dates must be YYYY-MM-DD format!
