@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Olympic Race Game
+permalink: projects/olympicrace
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016-10-24
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Java
+  - Eclipse
+summary: In ICS 111 we've created a racing game that let's you race against the CPU.
 ---
 
 <div class="ui small rounded images">
@@ -20,25 +19,12 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This project was given to me and my ICS 111 class by Jason Leigh. It was a way to introduce the class to game development and inspire some of new programers to persue coding and encourage them to keep trying and perservere. The requirements of the program is to have three racers and one of those racers you are controlling by pressing the keys 'W' and 'S'in a sequential order. While you are controlling your character's movement, the CPU is generating a random value to either increase their movement or to decrease it. This forces you to continuously pressing 'W' and 'S' to the point where you just might end up breaking your keyboard just so that you can win.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+With this project I've ran into some difficulties with meeting the requirements, these included syntax errors, my code not loading my images for the task and missing files in my eclipse. All of this brought mentally straining hours and frustration, this was mostly due to the fact that it was my first time programming on Eclipse and having minimal knowledge on this editing/programming software. What solved this problem and helped me complete this project was my TA, and he took a file from my 
 
-Here is some code that illustrates how we read values from the line sensors:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+For source code,click on this link(http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
