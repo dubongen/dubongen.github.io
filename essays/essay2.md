@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/Image-1 (1).png">
+  <img class="ui image" src="../images/JSpic1.png">
 </div>
 
 In my personal opinion I enjoy using Javascript, I enjoy how the language is similar to C++ but it has a more of a Java style of coding. I generally like C more than Javascript because I spent a lot of time coding in that language and it's a really good language to program with, though it's quite difficult to wrap your head around it. As a comlpete newbie in Javascript I'm able to say that the language is starting to grow on me. I would even take the consideration of wanting to code in this language instead of C or C++.
