@@ -22,7 +22,7 @@ With this project I've ran into some difficulties with meeting the requirements,
 
 With this project, it gave me an idea of how it's like to develop a game even if it's something small like this project.
 
-Demonstration Video: [Click Here]{https://www.youtube.com/watch?v=F7fpIwckh3I}
+Demonstration Video: [Click Here](https://www.youtube.com/watch?v=F7fpIwckh3I)
 
 
 
