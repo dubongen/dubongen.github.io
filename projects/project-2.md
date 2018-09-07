@@ -13,7 +13,7 @@ summary: I created a project in C and converted it into C++.
 ---
 
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/Softwarepic2.png">
+  <img class="ui image" src="../images/">
 </div>
 
 
