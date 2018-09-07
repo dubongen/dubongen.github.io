@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Learning Javascript
+title: Javascript A New Obstacle
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-29
 labels:
