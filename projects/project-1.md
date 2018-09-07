@@ -22,23 +22,7 @@ With this project I've ran into some difficulties with meeting the requirements,
 
 With this project, it gave me an idea of how it's like to develop a game even if it's something small like this project.
 
-Sample of Code
-
-    while (isracing){
-
-      Zoom.translateBy (rand.nextInt(4),0); //random integer multiplied by x value of racer's coordinates			
-			ReverseFlash.translateBy (rand.nextInt(4),0); //random integer multiplied by x value of racer's coordinates
-			
-			EZ.refreshScreen(); //When screen refresh reset random integers
-	
-      Flash.translateTo(flashX,140);//translate the coordinates
-			
-			if (EZInteraction.wasKeyPressed(currkey)==true) { //set key interaction
-				tem=lastkey;//temporary is the last key pressed
-				lastkey=currkey;//the last key = the current key
-				currkey=tem;//temporary is the current key pressed
-				Flash.translateBy (5+rand.nextInt(8),0);	// when keys is pressed add 5 and a random int to flashX
-			}	
+Demonstration Video: [Click Here]{https://www.youtube.com/watch?v=F7fpIwckh3I}
 
 
 
