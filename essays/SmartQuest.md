@@ -8,3 +8,7 @@ labels:
   - Learning
 ---
 
+<div class="ui large rounded images">
+  <img class="ui image" src="../images/Image-1 (1).png">
+</div>
+
