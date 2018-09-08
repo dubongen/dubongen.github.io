@@ -9,7 +9,7 @@ labels:
   - Stack Overflow
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/StackOverf.jpg">
 </div>
 
