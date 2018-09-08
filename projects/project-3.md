@@ -12,7 +12,7 @@ labels:
 summary: A personal project I had the opportunity in doing.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Image-1.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Image-1.jpg">
 
 My personal project that I felt needed to be in here is one of my choreographys that performed and filmed. Now this is not  just any typical dance choreography, it's the first one that I was able to have the courage to preform and film it.
 
