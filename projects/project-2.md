@@ -23,20 +23,4 @@ This project had its various difficulties with getting your code to work. I beli
 
 This project helped me gain experience with C and C++, also the fact that we had to convert our project from one language to another posed another obstacle that I was able to overcome. In my opinion I do believe that C is a powerful language, but the difficulty and the tedious work you have to put in can be overwhelming.
  
-Sample Code
-
-    temp = (struct record *)  malloc(sizeof(struct record));
-
-    temp->accountno = accountno;
-
-    strcpy(temp->name, name);
-    strcpy(temp->address, address);
-
-    temp->next = NULL;
-
-    if (start == NULL)
-    {
-
-        *start = temp;
-
-    }
+Source Code: [Click Here](https://github.com/dubongen/ics212Project)
