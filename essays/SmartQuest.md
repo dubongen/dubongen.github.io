@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/StackOver.jpg">
+  <img class="ui image" src="../images/StackOver.pg">
 </div>
 
 Now, in some part of our lives, we have asked ourselves "is this a dumb question?" Hoping that when we ask our teachers or our professors, they don't look at us with the expression that the answer to our question is obvious. This doesn't mean that it was a "dumb" question it could have been a really good one, but it is us doubting that our question has significance to the topic. We were never really taught in school what a good question could be like, we would just assume that the answer cannot be obvious or we're taught the saying "there is no such thing as a dumb question". With this saying it created an idea that we should be inquisitive people, we should ask as many questions as we can so that we are able to learn and understand the answers to our questions.
