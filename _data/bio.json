@@ -25,13 +25,13 @@
         "username": "dubongen",
         "url": "http://linkedin.com/in/dubongen"
       }
-    ] 
+    ]
   },
   "interests": [
     {
       "name": "Cyber Security",
       "keywords": [
-        
+
       ]
     },
     {
@@ -47,7 +47,7 @@
     {
       "name": "Dancing",
       "keywords": [
-        
+
       ]
     }
   ],
@@ -60,7 +60,7 @@
         "C++",
         "Java",
         "Javascript"
-        
+
       ]
     },
     {
@@ -103,20 +103,6 @@
       "highlights": [
         "Maintain, update, and oversee client's equipment",
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "N/A",
-      "date": "N/A",
-      "awarder": "N/A",
-      "summary": "N/A"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
