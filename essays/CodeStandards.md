@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/JSpic1.png">
+  <img class="ui image" src="../images/SyntaxErr.jpg">
 </div>
 
 When learning new programming languages from different professors, you start to get a feel of how they want you to format your code. For example, when making a function, Professor Ravi wants his students to have the curly brace on a new line by itself, whereas some professors really don't care about your format as long as you complete the task. This was actually true for me because when I was wroking on Java I never really cared how I formatted my code. 
