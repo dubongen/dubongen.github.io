@@ -19,7 +19,7 @@ Before this class didn't have any knowledge on Semantic UI, Bootstrap, or any ot
 <div class="ui two column grid container"
   <div class="column">
     <div class="ui image">
-      <img src="https://react.semantic-ui.com/logo.png">
+      <img src="Original Website.png">
     </div>
   </div>
   
