@@ -18,13 +18,13 @@ Before this class didn't have any knowledge on Semantic UI, Bootstrap, or any ot
 
 <div class="ui two column grid container">
   <div class="column">
-    <div class="ui small rounded images">
+    <div class="ui tiny rounded images">
       <img class="ui image" src="Original Website.png">
     </div>
   </div>
   
   <div class="column">
-    <div class="ui small rounded images">
+    <div class="ui tiny rounded images">
       <img class="ui image" src="My Re-Creation.png">
     </div>
 </div>
