@@ -19,13 +19,13 @@ Before this class didn't have any knowledge on Semantic UI, Bootstrap, or any ot
 <div class="ui two column grid container"
   <div class="column">
     <div class="ui large rounded images">
-      <img class="ui image" src="">
+      <img class="ui image" src="Original Website.png">
     </div>
   </div>
   
   <div class="column">
     <div class="ui large rounded images">
-      <img class="ui image" src="../images/StackOverf.jpg">
+      <img class="ui image" src="Original Website.png">
     </div>
 </div>
 
