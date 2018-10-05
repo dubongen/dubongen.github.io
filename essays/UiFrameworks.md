@@ -18,16 +18,12 @@ Before this class didn't have any knowledge on Semantic UI, Bootstrap, or any ot
 
 <div class="ui two grid container">
   <div class="column">
-    <div class="ui large rounded images">
-      <img class="ui image" src="../images/Original Website.jpg">
-    </div>
+    <img class="ui large image" src="../images/Original Website.jpg">
   </div>
   
   <div class="column">
-    <div class="ui large rounded images">
-      <img class="ui image" src="../images/My Re-Creation.jpg">
-    </div>
+    <img class="ui large image" src="../images/My Re-Creation.jpg">
   </div>
 </div>
 
-Now as you see in the pictures above I think I could come close to my website recreation using strictly HTML and CSS. This is only because the tag that I used(<video></video>) did not include the use of Semantic UI, instead it was a tag that was apart of 
+Now as you see in the pictures above I think I could come close to my website recreation using strictly HTML and CSS. This is only because the tag that I used(video) to add a video in my background did not include the use of Semantic UI, instead it was a tag that was apart of HTML. I do believe that it will take me a while to figure out how to do a drop down menu in HTML and CSS, whereas semantic was easier to figure out because it only required a div tag and a script. So in my opinion I think that it's good to know how HTML and CSS works but it's much more efficient to use Semantic UI or any other framework to get the job done in a less frustrating manner.
