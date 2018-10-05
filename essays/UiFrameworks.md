@@ -18,16 +18,15 @@ Before this class didn't have any knowledge on Semantic UI, Bootstrap, or any ot
 
 <div class="ui two column grid container"
   <div class="column">
-    <div class="ui image">
-      <img src="Original Website.png">
+    <div class="ui large rounded images">
+      <img class="ui image" src="">
     </div>
   </div>
   
-   <div class="column">
-     <div class="ui image">
-       <img src="https://react.semantic-ui.com/logo.png">
-     </div>
-   </div>
+  <div class="column">
+    <div class="ui large rounded images">
+      <img class="ui image" src="../images/StackOverf.jpg">
+    </div>
 </div>
 
 Now as you see in the pictures above I don't think I could come close to my website recreation using strictly HTML and CSS. 
