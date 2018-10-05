@@ -27,6 +27,7 @@ Before this class didn't have any knowledge on Semantic UI, Bootstrap, or any ot
     <div class="ui tiny rounded images">
       <img class="ui image" src="My Re-Creation.png">
     </div>
+  </div>
 </div>
 
 Now as you see in the pictures above I don't think I could come close to my website recreation using strictly HTML and CSS. 
