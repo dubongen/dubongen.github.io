@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 <div class="ui image">
-  <img src="images/designpt.png">
+  <img src="../images/designpt.png">
 </div>
 
 When I first hear the question "what are design patterns?", the first thing that comes to mind is the most general idea and probably the most ignorant answer "it's a type of pattern that you design or create". This answer may be the same for other people, but as I started to think about it more I then came to the realization that this represents a type of template that most computer science majors use. Unlike the usual code that you create from scratch, a design pattern is more of a template that has the basic code layout that anyone could use and you can add or alter the template to your liking. Another way to look at this is you have a video game that offers a certain amount of content, then the creators release new content for that game to satisfy not only their main consumers but to target other consumers that might be interested in their content. 
