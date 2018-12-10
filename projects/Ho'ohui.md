@@ -30,4 +30,4 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   </div>
 </div>
 
-
+[View Ho'ohui GitHub Page]https://github.com/ho-ohui/hoohui
