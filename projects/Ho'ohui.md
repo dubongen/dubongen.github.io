@@ -20,18 +20,12 @@ summary: Me and my group created an app that provides a way for students to find
 ## About
 Our goal is to create a better way to connect students to job opportunities. This can be from internships to potential job openings, we are striving to inform graduating students about various companies that are hiring within the year in order to give these students a chance at starting their career after college. We also want to include the hiring companies to interact with the students by hvaing them make their own account and choose from the listed users.
 
-<div class="ui two column grid container">
-  <div class="column">
-    <div class="ui large rounded image">
-      <img class="ui image" src="../images/appacceptance.png">
-    </div>
-  </div>
+<div class="ui large rounded image">
+  <img class="ui image" src="../images/appacceptance.png">
+</div>
   
-  <div class="column">
-    <div class="ui large rounded image">
-      <img class="ui image" src="../images/jobopp.png">
-    </div>
-  </div>
+<div class="ui large rounded image">
+  <img class="ui image" src="../images/jobopp.png">
 </div>
 
 ## Experience
@@ -39,5 +33,5 @@ This project provided me with a chance to practice and reveal what I learned ove
 
 This project helped me practice what I learned throughout the duration of this class. Whether that is the web app's functionality or the layout/design of the overall app. After this project, I feel that our app has the potential of actually working to connect the community in a positive way.
 
-View the Deployed App: [Click Here](https://hoohui.meteorapp.com/#/)</br>
+View the Deployed App: [Click Here](https://hoohui.meteorapp.com/#/)<br>
 View Ho'ohui GitHub Page: [Click Here](https://github.com/ho-ohui/hoohui)
