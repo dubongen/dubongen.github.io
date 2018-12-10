@@ -23,7 +23,8 @@ Our goal is to create a better way to connect students to job opportunities. Thi
 <div class="ui large rounded image">
   <img class="ui centered image" src="../images/appacceptance.png">
 </div>
-  
+
+
 <div class="ui large rounded image">
   <img class="ui centered image" src="../images/jobopp.png">
 </div>
