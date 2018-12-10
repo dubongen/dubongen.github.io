@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Softwarepic1.png
+image: images/AlohaConnectLogo.png
 title: Ho'ohui
 permalink: projects/hoohui
 # All dates must be YYYY-MM-DD format!
@@ -10,5 +10,6 @@ labels:
   - HTML
   - Semantic UI
   - Meteor
-summary: I created a project in C and converted it into C++.
+summary: Me and my group created an app that provides a way for students to find job opportunities and companies to find possible applicants that would potentially connect the community in a positive way.
 ---
+
