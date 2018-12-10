@@ -39,5 +39,5 @@ This project provided me with a chance to practice and reveal what I learned ove
 
 This project helped me practice what I learned throughout the duration of this class. Whether that is the web app's functionality or the layout/design of the overall app. After this project, I feel that our app has the potential of actually working to connect the community in a positive way.
 
-View the Deployed App: [Click Here](https://hoohui.meteorapp.com/#/)
+View the Deployed App: [Click Here](https://hoohui.meteorapp.com/#/)</br>
 View Ho'ohui GitHub Page: [Click Here](https://github.com/ho-ohui/hoohui)
