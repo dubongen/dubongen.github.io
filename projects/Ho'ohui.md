@@ -13,20 +13,20 @@ labels:
 summary: Me and my group created an app that provides a way for students to find job opportunities and companies to find possible applicants that would potentially connect the community in a positive way.
 ---
 
-<div class="ui large rounded images">
-  <img class="ui centered image" src="../images/landing.png">
+<div class="ui large rounded centered images">
+  <img class="ui image" src="../images/landing.png">
 </div>
 
 ## About
-Our goal is to create a better way to connect students to job opportunities. This can be from internships to potential job openings, we are striving to inform graduating students about various companies that are hiring within the year in order to give these students a chance at starting their career after college. We also want to include the hiring companies to interact with the students by hvaing them make their own account and choose from the listed users.
+The goal of this project is to create a better way to connect students to job opportunities. This can be from internships to potential job openings, we are striving to inform graduating students about various companies that are hiring within the year in order to give these students a chance at starting their career after college. We also want to include the hiring companies to interact with the students by having them make their own account and choose from the listed users.
 
-<div class="ui large rounded image">
-  <img class="ui centered image" src="../images/appacceptance.png">
+<div class="ui large rounded centered image">
+  <img class="ui image" src="../images/appacceptance.png">
 </div>
 
 
-<div class="ui large rounded image">
-  <img class="ui centered image" src="../images/jobopp.png">
+<div class="ui large rounded centered image">
+  <img class="ui image" src="../images/jobopp.png">
 </div>
 
 ## Experience
