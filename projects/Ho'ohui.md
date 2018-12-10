@@ -24,7 +24,7 @@ Our goal is to create a better way to connect students to job opportunities. Thi
   <div class="column">
     <div class="ui large rounded images">
       <img class="ui image" src="../images/appacceptance.png">
-     </div
+    </div
   </div>
   
   <div class="column">
